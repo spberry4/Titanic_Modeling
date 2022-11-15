@@ -13,4 +13,4 @@ SMOTE was also used in order to balance the classes in order to attempt to bette
 
 The highest accuracy I was able to achieve in the contest was 0.77272.
 
-In reviewing the data further I had orginially removed the column "Cabin" due to the amount of missing data but the missing cabin data could have meant that they did not have a cabin at all.
+In reviewing the data further I had orginially removed the column "Cabin" due to the amount of missing data but the missing cabin data could have meant that they did not have a cabin at all. This has the possibility to improve the model and will be revisited.
